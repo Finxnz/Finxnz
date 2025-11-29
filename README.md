@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ```kotlin
-val ley = Developer(
+val finxnz = Developer(
     pronouns = "he/him",
     age = 16,
     code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++"),
-    tools = listOf("IntelliJ", "Git", "", "Maven", "Docker",),
+    tools = listOf("IntelliJ", "Git", "Maven", "Docker")
     techCommunities = mapOf(
-        "admin" to "SpaceBlocks.net"
+        "admin" to "spaceblocks.net"
     ),
-    currentFocus = ""
+    currentFocus = null
 )
 ```
