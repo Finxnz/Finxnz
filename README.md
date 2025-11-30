@@ -5,17 +5,18 @@ Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its
 val finxnz = Developer(
     pronouns = "he/him",
     age = 16,
-    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++"),
-    tools = listOf("IntelliJ", "Git", "Maven", "Docker"),
+    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++")
+    tools = listOf("IntelliJ", "Git", "Maven", "Docker")
     techCommunities = mapOf(
         "admin" to "spaceblocks.net"
     ),
     currentFocus = null
-)```
+)
+```
 
 ## 🚀 What I'm Working On
 Currently focused on developing and contributing to SpaceBlocks – an exciting minecraft citybuild server.
 
-🌍 About Me
+## 🌍 About Me
 From Germany 🇩🇪 | Always learning and experimenting with new technologies
 Reach out to me on discord: finxnzberxter
