@@ -12,7 +12,8 @@ val finxnz = Developer(
     ),
     currentFocus = null
 )```
-🚀 What I'm Working On
+
+## 🚀 What I'm Working On
 Currently focused on developing and contributing to SpaceBlocks – an exciting minecraft citybuild server.
 
 🌍 About Me
