@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its
 val finxnz = Developer(
     pronouns = "he/him",
     age = 16,
-    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++")
+    code = listOf("Java", "C#", "PHP", "JavaScript", "HTML", "CSS", "C++", Phyhton, Discord.js)
     tools = listOf("IntelliJ", "Git", "Maven", "Docker")
     techCommunities = mapOf(
         "admin" to "spaceblocks.net"
