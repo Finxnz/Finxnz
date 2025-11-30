@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Can aka finxnzberxter 👋
 
 ```kotlin
 val finxnz = Developer(
