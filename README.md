@@ -1,6 +1,6 @@
 ## Hi there, I'm Can aka finxnzberxter 👋
 Welcome to my GitHub profile! I'm a 16-year-old developer i love coding, and its my favourite thing to do.
-👨‍💻 About Me
+## 👨‍💻 About Me
 ```kotlin
 val finxnz = Developer(
     pronouns = "he/him",
